@@ -1,5 +1,6 @@
 Nome: Douglas
 Sobrenome: Alves
+E-mail: alves_douglas@hotmail.com
 Curso: Sistemas de Informação
 Período: Matutino
 Semestre: Sexto
